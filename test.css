@@ -228,8 +228,8 @@ overflow: hidden;
 transition: transform 0.4s ease, filter 0.4s ease;
 }
 
-.photo1 { background-image: url('_ADO8056.jpg'); }
-.photo2 { background-image: url('_ADO8282\ \(1\).jpg'); }
+.photo1 { background-image: url('studio.jpg'); }
+.photo2 { background-image: url('editorial.jpg'); }
 .photo3 { background-image: url('outdoor.jpg'); }
 .photo4 { background-image: url('brand.jpg'); }
 
